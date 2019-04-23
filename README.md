@@ -32,6 +32,7 @@ All the requirements are in the *requirements.txt* file.
 
 ```
 pip install -r requirements.txt
+pip install opencv-python
 ```
 
 ### Bibliography
