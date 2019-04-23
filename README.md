@@ -37,5 +37,7 @@ pip install -r requirements.txt
 ### Bibliography
 
 [1] You only look once: Unified, real-time object detection. **J. Redmon, S. Divvala, R. Girshick, and A. Farhadi.**
+
 [2] Two-frame motion estimation based on polynomial expansion. **G. Farnebäck.**
+
 [3] Yolo-lite: A real-time object detection algorithm optimized for non-gpu computers. **R. Huang, J. Pedoeem, and C. Chen.**
