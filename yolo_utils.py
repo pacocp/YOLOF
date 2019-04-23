@@ -8,7 +8,7 @@ def show_image(img):
     cv.waitKey(0)
 
 
-def fill_image(matrix, img, boxes, idxs):
+def fill_image(matrix, img, boxes, idxs, verbose=False):
     if len(idxs) > 0:
         for i in idxs.flatten():
             # Get the bounding box coordinates
@@ -25,7 +25,8 @@ def fill_image(matrix, img, boxes, idxs):
             try:
                 matrix[y:y+h, x:x+w, :] = img
             except:
-                print("Couldn't")
+                if(verbose):
+                    print("Couldn't")
     return matrix
 
 
