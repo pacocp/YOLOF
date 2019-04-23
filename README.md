@@ -41,3 +41,8 @@ pip install -r requirements.txt
 [2] Two-frame motion estimation based on polynomial expansion. **G. Farnebäck.**
 
 [3] Yolo-lite: A real-time object detection algorithm optimized for non-gpu computers. **R. Huang, J. Pedoeem, and C. Chen.**
+
+#### Acknowledgments
+
+Great help from this Github repository: https://github.com/iArunava/YOLOv3-Object-Detection-with-OpenCV
+
