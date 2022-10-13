@@ -1,6 +1,6 @@
 # YOLOF
 
-## YOLO meats Optical Flow
+## YOLO meets Optical Flow
 
 ---
 
